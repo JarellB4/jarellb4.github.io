@@ -1,0 +1,5 @@
+For this project I had to make the html code more accesible.
+I found that replacing some div elements that were associated with classes made the code a lot easier to follow wuth a 
+screen reader.
+Making sure the css elemnts corresponded correctly was also key.
+The key was to make the website more accesible while using html semantics.
